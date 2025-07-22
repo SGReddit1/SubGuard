@@ -23,8 +23,6 @@ The app will add a Mod Note to the member with a link to the content, and issue 
 
 When a member is issued a final warning, the app will ban them for the amount of time specified in the app settings. The member gets a ban confirmation PM from the App and Reddit facilitates a more formal ban notice PM from the Subreddit. 
 
-Visit r/SubGuard for screenshots of PM messages sent and "Check my Warnings (SubGuard)" details. 
-
 - An optional installation setting is available to receive ModMail notifications ++ v 0.0.3
 - Custom comments may be created in the app installation settings page for Comment & Remind and Lock & Warn ++ v 0.0.4
 - Moderators may now decide at how many warnings SubGuard should issue a ban, and for how long the ban should last. Added new functionality that removes all warnings after someone is banned allowing a banned user to return to the group once their ban is over with no warnings, starting the warning process over. ++ v 0.0.5
